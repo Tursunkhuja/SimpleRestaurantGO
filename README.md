@@ -1,1 +1,1 @@
-# Simple Restaurant with Go
+## Simple Restaurant with Go
